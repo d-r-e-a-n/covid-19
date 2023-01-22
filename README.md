@@ -1,11 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/covid-19)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/covid-19?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/covid-19?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/Zd17bkkJyww?style=social)](https://youtu.be/Zd17bkkJyww)
-
+  ![GitHub repo size](https://img.shields.io/github/repo-size/d-r-e-a-n/sam)
+  ![GitHub stars](https://img.shields.io/github/stars/d-r-e-a-n/sam?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/d-r-e-a-n/sam?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/___drean?style=social)](https://twitter.com/intent/follow?screen_name=___drean)
   <br />
   <br />
 
