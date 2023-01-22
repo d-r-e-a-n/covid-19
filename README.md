@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/d-r-e-a-n/sam)
-  ![GitHub stars](https://img.shields.io/github/stars/d-r-e-a-n/sam?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/d-r-e-a-n/sam?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/d-r-e-a-n/covid-19)
+  ![GitHub stars](https://img.shields.io/github/stars/d-r-e-a-n/covid-19?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/d-r-e-a-n/covid-19?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/___drean?style=social)](https://twitter.com/intent/follow?screen_name=___drean)
   <br />
   <br />
